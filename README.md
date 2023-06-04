@@ -1,6 +1,6 @@
 # Taller-2-Inflaci-nCPyD-2023
 
 	===Integrantes===
-	Pedro Pedrales
-	Juana Juanína
-	Diego Diegoso
+	Vania Palacios Gomez
+	Virla Parra Retamal
+	Claudio Silva Arteaga
